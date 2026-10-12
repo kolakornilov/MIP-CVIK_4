@@ -1,6 +1,6 @@
 % Metódy inžinierskej práce
 
-\documentclass[10pt,twoside,slovak,a4paper]{article}
+\documentclass[10pt,twocolumn,slovak,a4paper]{article}
 
 \usepackage[slovak]{babel}
 %\usepackage[T1]{fontenc}
@@ -42,13 +42,20 @@
 \section{Nejaká časť} \label{nejaka}
 
 
-\begin{figure}[h]
+\begin{figure*}[t]
   \centering
-  \includegraphics[width=0.45\textwidth]{diagram1}
+  \includegraphics[width=0.25\textwidth]{diagram1}
   \hfill
-  \includegraphics[width=0.45\textwidth]{diagram2}
+  \includegraphics[width=0.25\textwidth]{diagram2}
   \caption{Dva diagramy vedla seba.}
-\end{figure}
+\end{figure*}
+
+
+\begin{figure*}[t]
+  \centering
+  \includegraphics[width=\textwidth]{diagram1}
+  \caption{Obrazok cez obe stlpce.}
+\end{figure*}
 
 \bibliography{literatura}
 \bibliographystyle{plain} % prípadne alpha, abbrv alebo hociktorý iný

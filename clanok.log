@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.30)  12 OCT 2026 11:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.30)  12 OCT 2026 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,23 +332,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: diagram1.png Graphic file (type png)
 <use diagram1.png>
 Package pdftex.def Info: diagram1.png  used on input line 47.
-(pdftex.def)             Requested size: 155.24895pt x 394.85953pt.
+(pdftex.def)             Requested size: 113.0pt x 287.39084pt.
 <diagram2.png, id=13, 142.5325pt x 108.405pt>
 File: diagram2.png Graphic file (type png)
 <use diagram2.png>
 Package pdftex.def Info: diagram2.png  used on input line 49.
-(pdftex.def)             Requested size: 155.24895pt x 118.07639pt.
+(pdftex.def)             Requested size: 113.0pt x 85.94336pt.
+File: diagram1.png Graphic file (type png)
+<use diagram1.png>
+Package pdftex.def Info: diagram1.png  used on input line 56.
+(pdftex.def)             Requested size: 452.0pt x 1149.6202pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Float too large for page by 575.56464pt on input line 58.
 
 No file clanok.bbl.
-[1
+[1{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+
+]
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 55.
- [2 <./diagram1.png> <./diagram2.png>] (clanok.aux)
+(babel)             Reported on input line 62.
+ [2 <./diagram1.png> <./diagram2.png>] [3] (clanok.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -357,28 +363,27 @@ Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: 1FC54DECA0A98FE41C5D9BB93B08C6B0;176.
  ) 
 Here is how much of TeX's memory you used:
- 10179 strings out of 467871
- 160642 string characters out of 5418376
- 579559 words of memory out of 5000000
- 38943 multiletter control sequences out of 15000+600000
- 638105 words of font info for 65 fonts, out of 8000000 for 9000
+ 10180 strings out of 467871
+ 160657 string characters out of 5418376
+ 580522 words of memory out of 5000000
+ 38942 multiletter control sequences out of 15000+600000
+ 637528 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,234b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,234b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
 ssl10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\csr10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csr8.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm0600.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour
+pi600\csr8.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm0600.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/publi
+c/csfonts/dpi600\csr10.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour
 /public/csfonts/dpi720\csbx12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk
-/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Admin\AppData\Local\MiK
-TeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Admin\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Admin\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Admin\
-AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (2 pages, 62996 bytes).
+/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Admin\AppData\Local\MiKT
+eX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Admin\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Admin\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
+Output written on clanok.pdf (3 pages, 63005 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
  27 words of extra memory for PDF output out of 10000 (max. 10000000)
 
